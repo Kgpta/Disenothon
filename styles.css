@@ -65,7 +65,7 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: rgba(255, 2
 .navicon { position: relative; height: 26px; }
 .indicator { position: absolute; right: 0 !important; }
 .pull { display: none; }
-.hero { background: url('../img/hero-bg.jpg') no-repeat center center; padding: 65px 0 300px 0; height: auto; }
+.hero { background: url('hero-bg.jpg') no-repeat center center; padding: 65px 0 300px 0; height: auto; }
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { letter-spacing: 1px; }
@@ -79,7 +79,7 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: rgba(255, 2
 #intro{}
 .intro { background: #f3f5f8; visibility: visible;}
 .intro p { margin: 50px 0 0; }
-h1.arrow { font-size: 15px; text-transform: uppercase; color: #353535; background: url('../img/h1-bg.png') no-repeat center bottom; padding-bottom: 30px; font-weight: bold; }
+h1.arrow { font-size: 15px; text-transform: uppercase; color: #353535; background: url('h1-bg.png') no-repeat center bottom; padding-bottom: 30px; font-weight: bold; }
 .features-wrapper, .team-wrapper { margin: 70px 0 0; }
 
 h1 #kk{
@@ -90,7 +90,7 @@ h1 #kk{
 .fluid-white { width: 50%; background: #fff; float: right; height: 100%;  }
 .responsive-services { position: relative; }
 
-.swag { background: url('../img/5.jpg') no-repeat center center; background-size: cover; background-attachment: fixed; padding: 350px 0; }
+.swag { background: url('5.jpg') no-repeat center center; background-size: cover; background-attachment: fixed; padding: 350px 0; }
 .swag h1 { color: #fff; font-size: 40px; text-transform: uppercase; letter-spacing: 5px; }
 .swag h1 span { display: block; font-size: 25px; margin-top: 20px; }
 .down-arrow-btn { width: 40px; height: 40px; border-radius: 50%; background: rgba(61, 201, 179, 0.8); display: inline-block; margin: 10px auto 20px; color: #fff; font-size: 16px; line-height: 40px; text-align: center; }
@@ -99,7 +99,7 @@ h1 #kk{
 
 .designs { position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; top: 50px; }
 
-.subscribe { background: url('../img/keyboard-bg.jpg') no-repeat center center; background-attachment: fixed; padding: 120px 0 140px; }
+.subscribe { background: url('keyboard-bg.jpg') no-repeat center center; background-attachment: fixed; padding: 120px 0 140px; }
 .subscribe h1 { color: #fff; margin-bottom: 40px; }
 .subscribe h1 span { display: block; font-size: 15px; text-transform: uppercase; font-weight: bold; margin-top: 20px; letter-spacing: 1px; }
 .subscribe input[type=text] { background-color: rgba(255, 255, 255, 0.1); border: solid 1px #fff; padding: 20px; width: 30%; color: #fff; }
@@ -118,7 +118,7 @@ h1 #kk{
 
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
 .bounceInLeft, .bounceInRight, .fadeInUp, .fadeInUpDelay, .fadeInDown, .fadeInUpD, .fadeInLeft, .fadeInRight { visibility: visible; }
-.wp3 { background: url('../img/4.jpg') no-repeat ; background-position: 50px; height: 100%; }
+.wp3 { background: url('4.jpg') no-repeat ; background-position: 50px; height: 100%; }
 .ap{
 	width: 250px;
 	height: 150px;
